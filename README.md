@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Github Page
 
-[Flutter Github Page](https://codewithandrea.com/articles/flutter-web-github-pages/)
+[Flutter Github Page](https://dev.to/rodrigocastro_o/publishing-your-flutter-apps-into-github-pages-1l61)
