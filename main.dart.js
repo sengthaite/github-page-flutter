@@ -19561,7 +19561,7 @@ var $async$a1Q=A.T(function(a,b){if(a===1)return A.P(b,r)
 while(true)switch(s){case 0:if($.ah==null)A.a9c()
 $.ah.toString
 s=2
-return A.X($.K5().a0_("assets/contents/general/test.markdown"),$async$a1Q)
+return A.X($.K5().a0_("assets/contents/general/test.txt"),$async$a1Q)
 case 2:q=b
 if($.ah==null)A.a9c()
 p=$.ah
